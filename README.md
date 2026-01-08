@@ -1,1 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NWwt4fzV)
+# Space Invaders  
+
+### University assignment  
+Create a simple version of the classic arcade game 'Space Invaders' using the SFML API.  
+
+## Features  
+- Continuous enemy movement mechanic
+- Space ship movement with firing capabilities
+- Score system
+
+## Controls  
+- A + D keys to move spaceship
+- Spacebar to fire laser
+
+## Assets  
+#### Sprites
+Provided by the University  
+#### Sound  
+Laser sound - Soundsnap  
+
+## Screenshots  
+
+![menu_screenshot](/Data/Screenshots/Menu_screenshot.png)
+![game_screenshot](/Data/Screenshots/Gameplay_screenshot.png)
