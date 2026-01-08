@@ -2,6 +2,7 @@
 
 ### University assignment  
 Create a simple version of the classic arcade game 'Space Invaders' using the SFML API.  
+This repository is a portfolio version of the original coursework, all features and content implemented by myself
 
 ## Features  
 - Continuous enemy movement mechanic
