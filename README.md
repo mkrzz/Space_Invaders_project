@@ -16,7 +16,8 @@ Create a simple version of the classic arcade game 'Space Invaders' using the SF
 #### Sprites
 Provided by the University  
 #### Sound  
-Laser sound - Soundsnap  
+Laser sound - Soundsnap 
+Explosion sound - Soundsnap
 
 ## Screenshots  
 
